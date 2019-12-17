@@ -1,0 +1,14 @@
+site_name: Manual de Usuario Reporteria Proser
+nav: 
+- Inicio: index.md 
+- 1.Módulo Home: home.md
+- 2.Módulo Display: display.md 
+- 3.Módulo Dashboard: dashboard.md  
+- 4.Módulo Reportes: reportes.md 
+- 5.Módulo Configuración: configuración.md
+- 6.Módulo Sistema: sistema.md
+- 7.Módulo Usuario: usuario.md 
+- 8.Módulo Selector: selector.md 
+- Creditos: creditos.md
+
+theme: readthedocs
