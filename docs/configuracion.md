@@ -226,7 +226,7 @@ módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
 **<center>Figura 1 - Menú Superior</center>**
 
-###Zona de botones
+####Zona de botones
 
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
@@ -393,67 +393,6 @@ encuentra activo) utilizando el botón “Desactivar” y luego
 
 Si el registro no se encuentra activo, el botón “Eliminar”
 estará visible dentro de la vista de edición.
-
-##Configuración de intervalos
-
-Como su nombre lo indica, este módulo es para procesar las configuraciones
-relacionadas a los intervalos, si bien es cierto que un intervalo se refiere a la duración de
-tiempo; para efecto de un sistema de reportería son importante los mismos en vista de que
-sirven como parámetro al momento de ver reflejados gráficos o reportes.
-La vista se divide en 3 grandes secciones que son: menú superior, zona de botones y
-tabla de contenido.
-
-
-###Menú superior
-
-Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar:
-el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el
-módulo, el nombre del usuario, el estado de conexión y la hora actual.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
