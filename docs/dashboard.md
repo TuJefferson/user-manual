@@ -582,3 +582,378 @@ Así como también, en esta sección se visualizará la(s) opción(es)selecciona
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/4-2.jpg)
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
+
+### Pizarra de indicadores
+La pizarra de indicadores es la sección más relevante, ya que en ella se plasma toda la información fundamental de la vista. Esta sección, a su vez, seconforma por seis (06) grupos de información: *destacados, llamadas, niveles, tiempos, agentes conectados* y *auxiliares/asignaciones*.
+
+#### Destacados
+
+Los destacados puntualizan los indicadores de mayorenvergadura para la toma de decisiones por parte del supervisor o gerente. Este grupo se conforma por: nivel de contactabilidad, nivel de efectividad, llamadas en cola, llamadas activas, agentes planificados, agentes conectados, agentes efectivos, tiempo medio de operación(TMO).
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5.jpg)
+**<center> Figura 6 - Destacados </center>**
+
+##### Nivel de contactabilidad
+Indica el porcentaje que representa la cantidad dellamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas. Este indicador colorea sucontenido de acuerdo a los porcentajes configurados en la *escala* para cada color.  
+
+Al hacer clic sobre este indicador se desplegará una ventana  informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-1.jpg)
+**<center> Figura 7 - Destacados(Nivel de contactabilidad) </center>**
+
+##### Nivel de efectividad
+Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color. 
+
+Al hacer clic sobre este indicador se desplegará unaventana informativa con la leyenda descriptiva correspondiente alvalor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-2.jpg)
+**<center> Figura 8 - Destacados(Nivel de efectividad) </center>**
+
+##### Llamadas en cola
+Indica la cantidad de llamadas que encuentran esperando, en ese momento,en la cola para ser atendidas.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-3.jpg)
+**<center> Figura 9 - Destacados(Llamadas en cola) </center>**
+
+##### Llamadas activas
+Indica la cantidad de llamadas que están siendo realizadas en ese momento.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-4.jpg)
+**<center> Figura 10 - Destacados(Llamadas activas) </center>**
+
+##### Agentes planificados
+Indica la cantidad de agentes que se deben conectar en el transcurso del día, turno o guardia (según la configuración del display).
+
+##### Agentes conectados
+Indica la cantidad de agentes que se encuentran conectados en ese instante.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada agente correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-5.jpg)
+**<center> Figura 11 - Destacados(Agentes conectados) </center>**
+
+##### Agentes efectivos
+Indica la cantidad de agentes que se encuentran operativos (disponibles u ocupados) en ese instante.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada agente correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-6.jpg)
+**<center> Figura 12 - Destacados(Agentes efectivos) </center>**
+
+##### Tiempo medio de operación (TMO)
+Indica el tiempo promedio que dura un agente realizando una llamada.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-7.jpg)
+**<center> Figura 13 - Destacados(TMO) </center>**
+
+
+#### Llamadas
+El grupo de llamadas hace referencia a las métricas de todo lo relacionado con la cantidad de llamadas en la operación. Este grupo lo conforman los siguientes indicadores: realizadas, fallidas, contestadas,efectivas y colgadas por agente.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/7.jpg)
+**<center> Figura 14 - Llamadas </center>**
+
+##### Realizadas
+Indica la cantidad de llamadas realizadas por los agentes hasta ese instante.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/7-1.jpg)
+**<center> Figura 15 - Llamadas(Realizadas) </center>**
+
+##### Fallidas
+Indica la cantidad de llamadas que no lograron establecer conexión con el destinatario.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/7-2.jpg)
+**<center> Figura 16 - Llamadas(Fallidas) </center>**
+
+##### Contestadas
+Indica la cantidad de llamadas que lograron establecer conexión con el destinatario.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/7-3.jpg)
+**<center> Figura 17 - Llamadas(Contestadas) </center>**
+
+##### Efectivas
+Indica la cantidad de llamadas que lograron con éxito el propósito de las mismas.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/7-4.jpg)
+**<center> Figura 18 - Llamadas(Efectivas) </center>**
+
+##### Colgadas por agente
+Indica la cantidad de llamadas culminadas por los agentes, es decir, cuando la llamada finaliza porque el agente colgó primero que el llamante.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/7-5.jpg)
+**<center> Figura 19 - Llamadas(Colgadas por agente) </center>**
+
+#### Niveles
+El grupo *niveles* expresa los indicadores de eficiencia del call center: nivel de servicio, nivel de contactabilidad y nivel de efectividad.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/8.jpg)
+**<center> Figura 20 - Niveles </center>**
+
+##### Nivel de contactabilidad
+Indica el porcentaje que representa la cantidad dellamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/8-1.jpg)
+**<center> Figura 21 - Niveles(Nivel de contactabilidad) </center>**
+
+##### Nivel de efectividad
+Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/8-2.jpg)
+**<center> Figura 22 - Niveles(Nivel de efectividad) </center>**
+
+#### Tiempos
+El grupo *tiempos* puntualiza todos aquellos indicadores que su cálculo se basa en el tiempo, siempre expresados en segundos. Los indicadores de tiempo son: tiempo medio de operación, tiempo de operación.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/9.jpg)
+**<center> Figura 23 - Tiempos </center>**
+
+##### Tiempo medio de operación (TMO)
+Indica el tiempo promedio que dura un agente realizando una llamada.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/9-1.jpg)
+**<center> Figura 24 - Tiempos(TMO) </center>**
+
+##### Tiempo de operación
+Indica el tiempo de operación acumulado hasta ese instante.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/9-2.jpg)
+**<center> Figura 25 - Tiempos(Tiempo de operación) </center>**
+
+#### Agentes conectados
+Muestra un gráfico que expresa el estado actual de los agentes en ese instante.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/10.jpg)
+**<center> Figura 26 - Agentes conectados </center>**
+
+Al hacer clic sobre este indicador se desplegará una ventana
+informativa con el detalle de cada agente correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/10-1.jpg)
+**<center> Figura 27 - Agentes conectados </center>**
+
+#### Agentes en auxiliar/asignación
+Cuando hay agentes en break, se divisa dentro de este grupo un resumen de: la cantidad de agentes en break, el tipo de break y el tiempo acumulado en ese break.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/11.jpg)
+**<center> Figura 28 - Agentes en auxiliar/asignación </center>**
+
+Al hacer clic sobre este indicador se desplegará una ventana
+informativa con el detalle de cada agente correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/11-1.jpg)
+**<center> Figura 29 - Agentes en auxiliar/asignación </center>**
+
+## Dashboard salientes histórico
+Es una vista que expresa información de fechas anteriores a la actual y lasrepresenta en formato de dashboard. Para el caso del *dashboard de salientes histórico* las estadísticas mostradas corresponden a la modalidad *Outbound*   y al igual que el *dashboard de salientes* en *tiempo real*   permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
+
+Es una herramienta que proporciona al gerente o supervisor obtener los valores de las métricas de días pasados. Este dashboard está compuesto por un *menú superior, menú inferior* y la *pizarra de indicadores*.
+
+### Menú superior 
+Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/2.jpg)
+**<center> Figura 1 - Menú Superior  </center>**
+
+### Menú inferior 
+Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/3.jpg)
+**<center> Figura 2 - Menú Inferior  </center>**
+
+#### Sección uno
+En esta sección del *menú inferior* encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo,se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información, rango de tiempo de la información.
+
+#### Sección dos
+Dentro de la sección dos se puntualiza el nombre del Call Center del cual hace referencia la información mostrada en la vista.
+
+#### Sección tres
+En la sección tres, al hacer clic sobre “Filtre la información aquí”,encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la información que se muestra en la pizarra de indicadores.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/4.jpg)
+**<center> Figura 3 - Menú Inferior(Sección tres)  </center>**
+
+Así como también, en esta sección se visualizará la(s) opción(es)seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/4-1.jpg)
+**<center> Figura 4 - Menú Inferior(Sección tres) </center>**
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/4-2.jpg)
+**<center> Figura 5 - Menú Inferior(Sección tres) </center>**
+
+### Pizarra de indicadores
+La pizarra de indicadores es la sección más relevante, ya que en ella se plasma toda la información fundamental de la vista. Esta sección, a su vez, se conforma por seis (06) grupos de información: *destacados, llamadas, niveles,tiempos, resumen de agentes* e *histórico auxiliares/histórico asignaciones*.
+
+#### Destacados
+Los destacados puntualizan los indicadores de mayor envergadura para la toma de decisiones por parte del supervisor ogerente. Este grupo se conforma por: nivel del contactabilidad, nivel deefectividad, llamadas contestadas, agentes planificados, agentes registrados, tiempo medio de operación (TMO).
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5.jpg)
+**<center> Figura 6 - Destacados </center>**
+
+##### Nivel de contactabilidad
+Indica el porcentaje que representa la cantidad de llamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas, dentro del rango de fecha y tiempo seleccionado en el *selector*. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5-1.jpg)
+**<center> Figura 7 - Destacados(Nivel de contactabilidad) </center>**
+
+##### Nivel de efectividad
+Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas dentro del rango de fecha y tiempo seleccionado en el selector. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la escala para cada color.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5-2.jpg)
+**<center> Figura 8 - Destacados(Nivel de efectividad) </center>**
+
+##### Llamadas contestadas
+Indica la cantidad de llamadas que lograron establecer conexión con el destinatario dentro del rango de fecha y tiempo seleccionado en el *selector*. 
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5-3.jpg)
+**<center> Figura 9 - Destacados(Llamadas contestadas) </center>**
+
+##### Agentes planificados
+Indica la cantidad de agentes planificados para el transcurso del día, turno o guardias dentro del rango de fecha y tiempo seleccionado en el *selector*.
+
+##### Agentes registrados
+Indica la cantidad de agentes que se registraron dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada agente correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5-4.jpg)
+**<center> Figura 10 - Destacados(Agentes registrados) </center>**
+
+##### Tiempo medio de operación (TMO)
+Indica el tiempo promedio que duró un agente operando una llamada, dentro del rango de fecha y tiempo seleccionado en el *selector*, atendiendo una llamada.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5-5.jpg)
+**<center> Figura 11 - Destacados(TMO) </center>**
+
+#### Llamadas
+El grupo de llamadas hace referencia a las métricas de todo lo relacionado con la cantidad de llamadas en la operación. Este grupo lo conforman los siguientes indicadores: realizadas, fallidas, contestadas,efectivas y colgadas por agente.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7.jpg)
+**<center> Figura 12 - Llamadas </center>**
+
+##### Realizadas
+Indica la cantidad de llamadas realizadas por los agentes dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7-1.jpg)
+**<center> Figura 13 - Llamadas(Realizadas) </center>**
+
+##### Fallidas
+Indica la cantidad de llamadas que no lograron establecer conexión con el destinatario dentro del rango de fecha y tiempo seleccionado en el selector.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7-2.jpg)
+**<center> Figura 14 - Llamadas(Fallidas) </center>**
+
+##### Contestadas
+Indica la cantidad de llamadas que lograron establecer conexión con el destinatario dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7-3.jpg)
+**<center> Figura 15 - Llamadas(Contestadas) </center>**
+
+##### Efectivas
+Indica la cantidad de llamadas que lograron con éxito el propósito de las mismas dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7-4.jpg)
+**<center> Figura 16 - Llamadas(Efectivas) </center>**
+
+##### Colgadas por agente
+Indica la cantidad de llamadas culminadas por los agentes,es decir, cuando la llamada finaliza porque el agente colgó primero que el llamante. Este indicador basa su información dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7-5.jpg)
+**<center> Figura 17 - Llamadas(Colgadas por agente) </center>**
+
+#### Niveles
+El grupo *niveles* expresa los indicadores de eficiencia del call center: nivel de contactabilidad y nivel de efectividad.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/8.jpg)
+**<center> Figura 18 - Niveles </center>**
+
+##### Nivel de contactabilidad
+Indica el porcentaje que representa la cantidad de llamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas. Este indicador basa su información dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/8-1.jpg)
+**<center> Figura 19 - Niveles(Nivel de contactabilidad) </center>**
+
+##### Nivel de efectividad
+Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas. Este indicadorbasa su información dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/8-2.jpg)
+**<center> Figura 20 - Niveles(Nivel de efectividad) </center>**
+
+#### Tiempos
+El grupo *tiempos* puntualiza todos aquellos indicadores que su cálculo se basa en el tiempo, siempre expresados en segundos. Los indicadores de tiempo son: tiempo medio de operación, tiempo de operación.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/9.jpg)
+**<center> Figura 21 - Tiempos </center>**
+
+##### Tiempo medio de operación (TMO)
+Indica el tiempo promedio que duró un agente realizando una llamada dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/9-1.jpg)
+**<center> Figura 22 - Tiempos(TMO) </center>**
+
+##### Tiempo de operación
+Indica el tiempo de operación acumulado dentro del rango de fecha y tiempo seleccionado en el *selector*.  
+
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/9-2.jpg)
+**<center> Figura 23 - Tiempos(Tiempo de operación) </center>**
+
+#### Resumen de agentes
+Muestra una tabla que expresa estadísticas sobre los agentes, basándose en: cantidad de personas(agentes), sumatoria de la duración de la acción y el promedio de duración de esa acción o concepto. Este indicador fundamenta su información dentro del rango defecha y tiempo seleccionado en el *selector*.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/10.jpg)
+**<center> Figura 24 - Resumen de agentes </center>**
+
+#### Agentes en auxiliar/asignación
+Este grupo refleja, de manera resumida, toda la información referente a la actividad de los auxiliares y asignaciones transcurrida dentro del rango de fecha y hora seleccionado en el *selector*.
+
+![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/11.jpg)
+**<center> Figura 25 - Agentes en auxiliar/asignación </center>**
