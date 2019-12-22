@@ -1,3 +1,5 @@
+<justify>
+
 # <center> ProSer-Reportería </center> 
 
 **<center> Caracas 2019 </center>**
@@ -27,3 +29,5 @@ La reportería ProSer está diseñada para su fácil comprensión y manejo de ca
 
 Es importante que sea cauteloso con el usuario y clave asignada por el departamento correspondiente, en vista de que si los datos no están en concordancia no puede iniciar su sesión. 
 Con respecto a los módulos de acuerdo a su tipo de usuario usted tiene el acceso a los mismos, es decir si su tipo de usuario no tiene el permiso requerido no puede ver secciones en el menú superior. 
+
+</justify>

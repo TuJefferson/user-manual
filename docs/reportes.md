@@ -1,3 +1,4 @@
+<justify>
 
 Esta sección presenta la información en forma de tablas que pueden ser invocadas porel usuario.  
 

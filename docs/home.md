@@ -1,4 +1,4 @@
-
+<justify>
 
 ![Texto alternativo](/img/01-home/01-home-welcome/01-login.jpg)
 
@@ -45,4 +45,6 @@ siguientes:
 
 **NOTA:** Si esta sección no es visible es debido a los criterios de la institución y será ejecutada por el departamento encargado de la asignación de cuentas para usar Proser.  
 
-Debe contactarse con el departamento para que ellos puedan crear su cuenta y darle los datos correspondientes a su cuenta para así loguearse en el sistema de ProSer debido a que la opción de autoregister se encuentra inactiv
+Debe contactarse con el departamento para que ellos puedan crear su cuenta y darle los datos correspondientes a su cuenta para así loguearse en el sistema de ProSer debido a que la opción de autoregister se encuentra inactivo
+
+</justify>

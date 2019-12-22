@@ -1,4 +1,4 @@
-
+<justify>
 
 Los dashboard son vistas similares a los diplays, la diferencia consiste en que los dashboard son pizarras interactivas con el usuario. A través de un clic en cada indicador se muestra el detalle del valor señalado. Los dashboard tienen la capacidad de mostrar información en tiempo real y datos historicos.  
 
@@ -957,3 +957,5 @@ Este grupo refleja, de manera resumida, toda la información referente a la acti
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/11.jpg)
 **<center> Figura 25 - Agentes en auxiliar/asignación </center>**
+
+</justify>

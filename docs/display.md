@@ -1,3 +1,4 @@
+<justify>
 
 ![Texto alternativo](/img/02-display/00-display-main/01-display.jpg)
 
@@ -574,3 +575,5 @@ Indica el tiempo promedio que dura un agente atendiendo una llamada.
 
 #### ASA
 Indica el tiempo promedio que transcurre desde que las llamadas ingresan a la cola hasta ser atendida.
+
+</justify>
